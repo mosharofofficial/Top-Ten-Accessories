@@ -97,8 +97,10 @@ const GoalsMission = () => {
             </h2>
           </div>
           <p className="text-gray-700 sm:text-lg max-w-5xl">
-            Top Ten Accessories is organized by an experienced management
-            team...
+            Top Ten Accessories is organized by an experienced management team.
+            The management team organizes the customer relation, marketing,
+            technical affairs, finance and accounts, technology build-up and
+            service with support.
           </p>
         </div>
 
@@ -111,9 +113,11 @@ const GoalsMission = () => {
             </h2>
           </div>
           <p className="text-gray-700 sm:text-lg mb-4">
-            We are financed from our own source...
+            We are financed from our own source. We doing export business with
+            Islami Bank PLC, Local br. 75, Motijheel C/A, Dhaka-1000. We are
+            financially sound and solvent.
           </p>
-          <div className="space-y-1 font-semibold">
+          <div className="space-y-1 font-semibold text-[#20364E]">
             <p>Company IRC: 009936516-0202</p>
             <p>Company TIN: 127881789151</p>
           </div>
@@ -203,7 +207,7 @@ const GoalsMission = () => {
                     ))}
                   </ul>
                 ) : (
-                  <p className="font-semibold">{asset.count}</p>
+                  <p className="font-semibold text-[#314158]">{asset.count}</p>
                 )}
               </div>
             ))}

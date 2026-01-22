@@ -8,6 +8,7 @@ type Client = {
 };
 
 const clients: Client[] = [
+  { src: "/Clients/c9.png", alt: "EDCL", pos: "top-[14%] left-1/2" },
   {
     src: "/Clients/c1.png",
     alt: "Bio Gen",
@@ -49,8 +50,6 @@ const clients: Client[] = [
     alt: "Zizzi",
     pos: "top-[74%] right-[12%] md:right-[8%]",
   },
-
-  { src: "/Clients/c9.png", alt: "EDCL", pos: "top-[14%] left-1/2" },
 ];
 
 const OurClientsPage = () => {

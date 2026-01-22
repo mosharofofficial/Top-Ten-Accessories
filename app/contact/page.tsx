@@ -308,11 +308,13 @@ const ContactUsPage = () => {
           }`}
         >
           <div className="p-6 bg-[#20364E] text-white">
-            <h2 className="text-2xl text-white font-bold text-center">Find Us on Map</h2>
+            <h2 className="text-2xl text-white font-bold text-center">
+              Find Us on Map
+            </h2>
           </div>
           <div className="h-96 bg-gray-200">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.2976890089743!2d90.41607431543335!3d23.73395549458956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b85c740f17d1%3A0x4562877450d743a!2sMotijheel%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1234567890123!5m2!1sen!2sbd"
+              src="https://www.google.com/maps?q=23.7326562,90.4163009&z=19&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}

@@ -144,7 +144,7 @@ const ContactUs = () => {
                   onChange={handleChange}
                   placeholder="Your Name"
                   required
-                  className="bg-[#F3F4F6] px-4 py-3 outline-none focus:ring-2 focus:ring-[#38B980] rounded-lg transition-all duration-300 hover:bg-gray-100"
+                  className="bg-[#F3F4F6] px-4 py-3 outline-none focus:ring-2 focus:ring-[#38B980] rounded-lg transition-all duration-300 hover:bg-gray-100  "
                 />
                 <input
                   type="email"

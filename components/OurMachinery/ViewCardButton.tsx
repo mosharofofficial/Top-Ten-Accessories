@@ -20,7 +20,7 @@ export default function ViewCardButton({ img, name, item }: { img: string, name:
       </button>
 
       <dialog ref={dialogRef} className="modal">
-        <div className="modal-box max-w-5xl p-0 overflow-hidden">
+        <div className="modal-box max-w-5xl p-0 overflow-hidden bg-[#eee]">
           {/* Image */}
           <div className="relative w-full h-[70vh] lg:h-[80vh] bg-[#D7DFEA]">
             <Image

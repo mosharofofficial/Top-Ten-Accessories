@@ -73,6 +73,15 @@ const productSections: ProductSection[] = [
   {
     sectionTitle: "Printing Items",
     items: [
+      { image: "/Edcl Box/Artboard 1.png", title: "EDCL Box Design 1" },
+      { image: "/Edcl Box/Artboard 1 copy.png", title: "EDCL Box Design 2" },
+      { image: "/Edcl Box/Artboard 1 copy 2.png", title: "EDCL Box Design 3" },
+      { image: "/Biogen Work Order/Box.jpg", title: "Biogen Work Order Box" },
+      { image: "/Biogen Work Order/Box-1.jpg", title: "Biogen Box 1" },
+      { image: "/Biogen Work Order/Box-2.jpg", title: "Biogen Box 2" },
+      { image: "/Biogen Work Order/Box-3.jpg", title: "Biogen Box 3" },
+      { image: "/Biogen Work Order/Box-4.jpg", title: "Biogen Box 4" },
+      { image: "/Biogen Work Order/Box-5.jpg", title: "Biogen Box 5" },
       { image: "/printingItems/Labels.jpg", title: "Labels" },
       { image: "/printingItems/flyer.jpg", title: "Flyer" },
       { image: "/printingItems/moreFlyers.jpg", title: "Marketing Flyers" },

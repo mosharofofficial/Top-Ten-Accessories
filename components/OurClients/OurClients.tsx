@@ -8,11 +8,7 @@ type Client = {
 };
 
 const clients: Client[] = [
-  {
-    src: "/Clients/c1.png",
-    alt: "Bio Gen",
-    pos: "top-[22%] left-[14%] md:left-[27%]",
-  },
+  { src: "/Clients/c9.png", alt: "EDCL", pos: "top-[14%] left-1/2" },
   {
     src: "/Clients/c2.png",
     alt: "Target",
@@ -45,15 +41,20 @@ const clients: Client[] = [
     pos: "top-[57%] right-[8%] md:right-[4%]",
   },
   {
+    src: "/Clients/c1.png",
+    alt: "Bio Gen",
+    pos: "top-[22%] left-[14%] md:left-[27%]",
+  },
+  {
     src: "/Clients/c8.png",
     alt: "Zizzi",
     pos: "top-[74%] right-[12%] md:right-[8%]",
   },
-
-  { src: "/Clients/c9.png", alt: "EDCL", pos: "top-[14%] left-1/2" },
 ];
 
 const OurClients = () => {
+
+
   return (
     <section className="mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

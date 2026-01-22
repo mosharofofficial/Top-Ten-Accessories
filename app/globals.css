@@ -14,3 +14,8 @@ body {
 .text-white {
   color: white;
 }
+
+
+input, textarea {
+  color: black;
+}

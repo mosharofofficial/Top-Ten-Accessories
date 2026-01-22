@@ -49,7 +49,12 @@ export default function Hero() {
             <p className="text-white text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed text-justify">
               We produce printing and packaging accessories for pharmaceutical
               companies and also for export oriented garments manufacture based
-              in Bangladesh...
+              in Bangladesh. Top Ten Accessories was established in 2010 as a
+              fast growing customized design and developing company in the field
+              of pharmaceutical companies & garment accessories, printing &
+              packaging products. We are comppetent enough to perform any type
+              and volume of printing, packaging & any other related accessories
+              item
             </p>
           </div>
         ),
@@ -64,7 +69,10 @@ export default function Hero() {
             </h2>
             <p className="text-white text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed text-justify">
               We are embarking on a mission to develop and diversify the range
-              of our clients and activities...
+              of our clients and activities to cover the wider brands of the
+              local and global market. Top Ten Accessories have strang staff are
+              focused on providing top quality service and products at
+              competitivce price to fulfill our customer’s satisfaction.
             </p>
           </div>
         ),

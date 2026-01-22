@@ -8,8 +8,8 @@ const FooterMap = () => {
   return (
     <div className="h-50 w-full  overflow-hidden">
       <MapContainer
-        center={[23.732542, 90.4150386]} // Dhaka 😄
-        zoom={14}
+        center={[23.732542, 90.4167386]} // Dhaka 😄
+        zoom={17}
         scrollWheelZoom={false}
         className="h-full w-full"
       >
