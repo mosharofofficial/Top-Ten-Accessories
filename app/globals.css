@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+h1,
+h2,
+h3 {
+  color: #20364e;
+}
+
+body {
+  background-color: white;
+}
+
+.text-white {
+  color: white;
+}
